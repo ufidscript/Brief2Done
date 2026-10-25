@@ -128,4 +128,5 @@ Built as a prototype for the Hacktoberfest 2026 Week 3 “Slow and Steady” DEV
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
