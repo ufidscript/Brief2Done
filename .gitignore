@@ -1,0 +1,7 @@
+.venv/
+.venv-old/
+__pycache__/
+*.pyc
+.env
+.gradio/
+flagged/
