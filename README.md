@@ -53,7 +53,7 @@ ollama pull gemma3:1b
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Brief2Done.git
+git clone https://github.com/ufidscript/Brief2Done.git
 cd Brief2Done
 ```
 
@@ -128,4 +128,4 @@ Built as a prototype for the Hacktoberfest 2026 Week 3 “Slow and Steady” DEV
 
 ## License
 
-License to be added.
+MIT
