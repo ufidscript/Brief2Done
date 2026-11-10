@@ -2,7 +2,7 @@
 
 **Turn confusing assignment briefs into clear, actionable steps using local AI.**
 
-Brief2Done is a student-focused application that helps users understand assignment instructions, identify submission requirements, and plan their work.
+Brief2Done is a student-focused application that helps users understand assignment instructions, identify submission requirements, and draft their work.
 
 It combines Python-based information extraction with a locally running AI model powered by Ollama.
 
