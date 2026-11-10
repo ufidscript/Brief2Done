@@ -20,7 +20,7 @@ Brief2Done aims to simplify this process.
 - **Word-count detection:** Identifies common word-count ranges.
 - **Submission format detection:** Recognizes PDF, DOCX, and DOC references.
 - **Deadline detection:** Recognizes common weekday deadlines.
-- **Requirements checklist:** Organizes the main task and detected submission constraints.
+- **Requirements checklist:** Organizes the main tasks and detected submission constraints.
 - **Optional suggestions:** Provides AI-generated ideas to help students plan their work.
 - **Local AI processing:** Uses Ollama to run Gemma locally.
 
@@ -81,7 +81,7 @@ Open the local Gradio URL shown in your terminal.
 
 ## How It Works
 
-1. The student pastes an assignment brief.
+1. The student paste an assignment brief.
 2. Python extracts recognizable word-count ranges, submission formats, and weekday deadlines.
 3. The application sends the brief to a locally running Gemma model through Ollama.
 4. Gemma generates a main-task summary and optional suggestions.
